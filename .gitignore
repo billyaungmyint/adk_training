@@ -372,3 +372,5 @@ key.json
 
 .communication/
 .playwright-mcp/
+.venv
+*.db
